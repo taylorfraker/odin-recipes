@@ -1,1 +1,1 @@
-# odin-recipes
+# Basic recipe webpages in HTML
